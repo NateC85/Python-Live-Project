@@ -20,6 +20,36 @@ We were tasked with back-end stories, as well as front-end stories to style and 
 
 
 ### Creating Items
-Here we 
+Here I created my model, added migration. Then I created my model form that includes any inputs needed. And to finish the story, I added a template for creating a new item and a views function that would render the template and utilize the model form to save items to the database.
+<br>
+<br>
+![](snippets/model.png)
+![](snippets/create_template.png)
+![](snippets/views_create.png)
+![](snippets/createform.png)
+
+### Editing Items
+Here I had to create a views template and function that would render a selected item from the database and be able to edit it.
+<br>
+<br>
+![](snippets/edit_template.png)
+![](snippets/view_edit.png)
+![](snippets/edit1.png)
+![](snippets/details1.png)
+
+### Deleting Items
+Next I added a delete template and views function to be able to delete a selected item from the database.
+<br>
+<br>
+![](snippets/delete_template.png)
+![](snippets/view_delete.png)
+![](snippets/delete1.png)
 
 
+### Displaying Items
+I also needed to create a template to display the items saved in the database. Also a views function to collect all items from the database and send them to my display template.
+<br>
+<br>
+![](snippets/display_template.png)
+![](snippets/views_display.png)
+![](snippets/displaydb.png)

@@ -53,3 +53,16 @@ I also needed to create a template to display the items saved in the database. A
 ![](snippets/display_template.png)
 ![](snippets/views_display.png)
 ![](snippets/displaydb.png)
+
+
+### Skills Learned
+Some skills that I aquired through the Live Project:
+
+* Working in a team enviroment
+* Agile and Scrum methodologies
+* Better understanding of Django
+* How to utilize MTV design pattern
+* Using version control to better manage everyones code for the project
+
+### End Note
+After completing this project, I definitely feel more confident in what knowledge I've learned through my boot camp, and there will be more to come for this project. I plan on adding more to with APIs, webscraping and getting a better understanding of applying bootstrap.
